@@ -1,13 +1,12 @@
-[![MasterHead](https://i.pinimg.com/564x/89/a4/ef/89a4ef9ff779f546589695ca34df48b2.jpg) <img align="center">]
+[![MasterHead](https://i.pinimg.com/564x/89/a4/ef/89a4ef9ff779f546589695ca34df48b2.jpg)]
 <h1 align="center">Hi 👋, I'm mooneryy</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt ="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" alt ="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 - 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I've fallen in love with countless fictional characters and daydreamed about living in their worlds – books have a way of sparking the imagination and igniting the soul.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
