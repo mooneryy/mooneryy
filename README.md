@@ -1,4 +1,6 @@
-![MasterHead] (https://i.pinimg.com/564x/89/a4/ef/89a4ef9ff779f546589695ca34df48b2.jpg)
+
+[![MasterHead](https://i.pinimg.com/564x/56/95/a3/5695a314bd8dd47de77c224aa3e05601.jpg)]
+
 <h1 align="center">Hi 👋, I'm mooneryy</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align="right" alt ="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
