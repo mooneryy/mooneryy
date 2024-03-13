@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm mooneryy</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt ="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" alt ="Coding" width="250" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I've fallen in love with countless fictional characters and daydreamed about living in their worlds – books have a way of sparking the imagination and igniting the soul.**
+- ⚡ Fun fact: **I've fallen in love with countless fictional characters <br>and daydreamed about living in their worlds – books <br> have a way of sparking the imagination and igniting the soul.**
 
 <p align="left">
 </p>
