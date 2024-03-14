@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.pinimg.com/originals/4e/21/21/4e21214e901ffbf8495936f700d4ccaa.jpg)
+![MasterHead](https://pbs.twimg.com/media/CikvKz9WUAE2DEa.jpg)
 
 <h1 align="center">Hi 👋, I'm mooneryy</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
